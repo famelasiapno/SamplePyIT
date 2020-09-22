@@ -1,0 +1,6 @@
+# sample shape.
+# prints
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
