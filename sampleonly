@@ -4,3 +4,5 @@ print("   /|")
 print("  / |")
 print(" /  |")
 print("/___|")
+
+print("hello world")
